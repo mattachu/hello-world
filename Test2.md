@@ -1,3 +1,3 @@
 Another pointless file.
 
-Edited locally.
+Merged locally.
